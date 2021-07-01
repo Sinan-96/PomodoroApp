@@ -1,0 +1,2 @@
+rootProject.name = "PomodorApp"
+include ':app'
